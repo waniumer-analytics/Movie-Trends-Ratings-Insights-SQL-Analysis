@@ -175,10 +175,9 @@ Potential extensions for this project include:
 
 
 
-                                                             Author
+                                                             LINK 
 
-.WANI UMER
-. Data Analyst.
+.WANI UMER.   (Data Analyst.)
 
 LinkedIn :- [www.linkedin.com/in/waniumer-analytics].
-Portfolio:- 
+Portfolio:- https://codebasics.io/portfolio/WANI-UMER
